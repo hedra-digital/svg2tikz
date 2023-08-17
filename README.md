@@ -1,3 +1,14 @@
+# How to install
+
+```sh
+sudo apt-get -y install python3-pip
+pip install .
+sudo cp ./scripts/svg2tikz /bin/
+```
+
+or `make` to execute Makefile
+
+# Original README.md
 
 <picture>
   <img alt="SVG2TikZ Logo" src="logo/svg2tikz.svg">
