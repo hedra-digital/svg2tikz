@@ -8,6 +8,15 @@ sudo cp ./scripts/svg2tikz /bin/
 
 or `make` to execute Makefile
 
+
+# How to use
+
+```sh
+svg2tikz MyFile.svg > MyFile.tex
+```
+
+----
+
 # Original README.md
 
 <picture>
